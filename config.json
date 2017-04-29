@@ -1,0 +1,12 @@
+{
+  "init_cfg": {
+    "isLandscape": true,
+    "isWindowTop": false,
+    "name": "模拟器",
+    "width": 960,
+    "height": 640,
+    "entry": "src/main/main.lua",
+    "consolePort": 6050,
+    "uploadPort": 6060
+  }
+}
